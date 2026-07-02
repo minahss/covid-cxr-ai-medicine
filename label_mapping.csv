@@ -1,0 +1,5 @@
+label,label_id
+COVID,0
+Lung_Opacity,1
+Normal,2
+Viral Pneumonia,3

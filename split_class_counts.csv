@@ -1,0 +1,5 @@
+label,train,validation,test
+COVID,2499,536,535
+Lung_Opacity,4208,902,902
+Normal,7133,1529,1529
+Viral Pneumonia,937,200,201
