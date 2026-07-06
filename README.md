@@ -1,11 +1,5 @@
 # Four-Class Chest X-ray Classification for COVID-19 and Lung Conditions
 
-**Course:** AI for Medicine – University of Bologna  
-**Supervisor:** Prof. Stefano Diciotti  
-**Academic Year:** 2025/2026  
-**Student:** Mina Hosseina – Electronic Engineering  
-
----
 
 ## Overview
 
