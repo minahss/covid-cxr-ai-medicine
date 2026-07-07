@@ -110,9 +110,7 @@ Key findings:
 1. Clone this repository
 2. Open the notebooks in [Google Colab](https://colab.research.google.com/)
 3. The dataset is downloaded automatically via `kagglehub` — a Kaggle API key is required
-4. Run notebooks in order: `01` → `03` → `02`
-   - Notebook `01` saves the train/validation/test split files
-   - Notebooks `02` and `03` reload the same splits to ensure identical evaluation subsets
+4. Run notebooks: `01`  `03`  `02`
 5. A fixed random seed is set at the start of each notebook
 
 ### Dependencies
